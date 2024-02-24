@@ -1,7 +1,7 @@
 const mytopics = {
   topic1: {
-    name: "topic name",
-    url: "acafo.idfh"
+    name: "THE LIVNG WORLD",
+    url: "https://drive.google.com/file/d/1qWQQmsbkFbTWYC2JjzqZEOKLWmxNcO_6/view?usp=sharing"
   },
   topic2: {
     name: "topic name",
