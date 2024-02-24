@@ -26,7 +26,26 @@ const mytopics = {
   topic7: {
       name: "topic name",
       url: "asdf.sdfd"
-    }
+    },
+  topic8: {
+      name: "topic name",
+      url: "asdf.sdfd"
+    },
+  topic9: {
+      name: "topic name",
+      url: "asdf.sdfd"
+    },
+  topic10: {
+      name: "topic name",
+      url: "asdf.sdfd"
+    },
+  topic11: {
+      name: "topic name",
+      url: "asdf.sdfd"
+    },
+  topic11: {
+      name: "topic name",
+      url: "asdf.sdfd"
   // Add more topics as needed
 };
 
