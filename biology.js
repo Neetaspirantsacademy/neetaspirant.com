@@ -46,6 +46,7 @@ const mytopics = {
   topic11: {
       name: "topic name",
       url: "asdf.sdfd"
+  }
   // Add more topics as needed
 };
 
